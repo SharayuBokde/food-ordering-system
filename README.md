@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <h3 align="center">Food Ordering System</h3>
+  <h1 align="center">Food Ordering System</h1>
   
   <p align="center">
     🍩 Menu-driven food ordering program. Mini-project for Data Structures, Semester-III
