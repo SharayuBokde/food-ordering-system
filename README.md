@@ -16,7 +16,11 @@
   </p>
 </p>
 
-## Team 
+## About the Project
+
+<img width="100%" src="food_ordering.gif">
+
+## Developed with ❤️ by
 
 **_Rutu Gaglani_** - [Github](https://github.com/rutugaglani) 
 
@@ -25,4 +29,3 @@
 **_Sharayu Bokde_** - [Github](https://github.com/SharayuBokde) 
 
 
-<img width="100%" src="food_ordering.gif">
